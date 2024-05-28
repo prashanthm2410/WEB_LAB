@@ -1,0 +1,11 @@
+section {
+    width: 45%;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  .skill-list, .lang-list {
+    padding: 0;
+    list-style: none;
+  }
